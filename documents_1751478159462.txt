@@ -1,0 +1,18 @@
+{
+    "/docs/": {
+        "title": "Overview",
+        "text": "Overview Introduction to CallFix AI. Key features and benefits. Target audience and use cases."
+    },
+    "/docs/documentation/registration-and-onboarding/": {
+        "title": "Registration & onboarding",
+        "text": "Registration & Onboarding Step-by-step guide to registering an account. Walkthrough of the onboarding process. Tips for getting started."
+    },
+    "/docs/documentation/dashboard-guide/": {
+        "title": "Dashboard guide",
+        "text": "Dashboard guide Detailed explanation of the dashboard interface. Instructions on how to use key features. Troubleshooting common issues."
+    },
+    "/docs/documentation/faq/": {
+        "title": "FAQ",
+        "text": "FAQ Answers to frequently asked questions. Solutions to common problems. Contact information for support."
+    }
+}

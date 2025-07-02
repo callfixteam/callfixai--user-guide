@@ -1,0 +1,1218 @@
+{
+    "version": "2.3.9",
+    "fields": [
+        "title",
+        "text"
+    ],
+    "fieldVectors": [
+        [
+            "title//docs/",
+            [
+                0,
+                0.841
+            ]
+        ],
+        [
+            "text//docs/",
+            [
+                0,
+                0.739,
+                1,
+                1.284,
+                2,
+                0.112,
+                3,
+                1.284,
+                4,
+                1.284,
+                5,
+                0.739,
+                6,
+                1.284,
+                7,
+                1.729,
+                8,
+                1.284,
+                9,
+                1.284,
+                10,
+                1.284,
+                11,
+                0.739,
+                12,
+                1.284
+            ]
+        ],
+        [
+            "title//docs/documentation/registration-and-onboarding/",
+            [
+                13,
+                0.536,
+                14,
+                0.536,
+                15,
+                0.536
+            ]
+        ],
+        [
+            "text//docs/documentation/registration-and-onboarding/",
+            [
+                2,
+                0.097,
+                13,
+                0.638,
+                14,
+                0.638,
+                15,
+                0.899,
+                16,
+                1.562,
+                17,
+                1.108,
+                18,
+                0.328,
+                19,
+                1.108,
+                20,
+                1.108,
+                21,
+                1.108,
+                22,
+                1.108,
+                23,
+                0.638,
+                24,
+                0.638,
+                25,
+                1.108,
+                26,
+                1.108,
+                27,
+                0.638,
+                28,
+                1.108,
+                29,
+                1.108
+            ]
+        ],
+        [
+            "title//docs/documentation/dashboard-guide/",
+            [
+                18,
+                0.337,
+                30,
+                0.655
+            ]
+        ],
+        [
+            "text//docs/documentation/dashboard-guide/",
+            [
+                2,
+                0.102,
+                5,
+                0.668,
+                11,
+                0.668,
+                18,
+                0.344,
+                23,
+                0.668,
+                24,
+                0.668,
+                30,
+                0.929,
+                31,
+                1.161,
+                32,
+                1.161,
+                33,
+                1.161,
+                34,
+                1.161,
+                35,
+                1.161,
+                36,
+                1.161,
+                37,
+                1.161,
+                38,
+                1.161,
+                39,
+                0.668,
+                40,
+                1.161
+            ]
+        ],
+        [
+            "title//docs/documentation/faq/",
+            [
+                41,
+                0.841
+            ]
+        ],
+        [
+            "text//docs/documentation/faq/",
+            [
+                2,
+                0.151,
+                27,
+                0.739,
+                39,
+                0.739,
+                41,
+                0.739,
+                42,
+                1.284,
+                43,
+                1.284,
+                44,
+                1.284,
+                45,
+                1.284,
+                46,
+                1.284,
+                47,
+                1.284,
+                48,
+                1.284,
+                49,
+                1.284,
+                50,
+                1.284
+            ]
+        ]
+    ],
+    "invertedIndex": [
+        [
+            "&",
+            {
+                "_index": 14,
+                "title": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                13,
+                                1
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                13,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "account.",
+            {
+                "_index": 21,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                63,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "ai.",
+            {
+                "_index": 4,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                33,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "an",
+            {
+                "_index": 20,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                60,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "and",
+            {
+                "_index": 7,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                50,
+                                3
+                            ],
+                            [
+                                80,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "answers",
+            {
+                "_index": 42,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                4,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "asked",
+            {
+                "_index": 44,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                26,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "audience",
+            {
+                "_index": 10,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                71,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "benefits.",
+            {
+                "_index": 8,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                54,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "by",
+            {
+                "_index": 17,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                31,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "callfix",
+            {
+                "_index": 3,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                25,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "cases.",
+            {
+                "_index": 12,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                88,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "common",
+            {
+                "_index": 39,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                122,
+                                6
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                56,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "contact",
+            {
+                "_index": 48,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                73,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "dashboard",
+            {
+                "_index": 30,
+                "title": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                0,
+                                9
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                0,
+                                9
+                            ],
+                            [
+                                44,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "detailed",
+            {
+                "_index": 31,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                16,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "explanation",
+            {
+                "_index": 32,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                25,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "faq",
+            {
+                "_index": 41,
+                "title": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                0,
+                                3
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                0,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "features",
+            {
+                "_index": 6,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                41,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "features.",
+            {
+                "_index": 37,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                96,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "for",
+            {
+                "_index": 27,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                116,
+                                3
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                93,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "frequently",
+            {
+                "_index": 43,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                15,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "getting",
+            {
+                "_index": 28,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                120,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "guide",
+            {
+                "_index": 18,
+                "title": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                10,
+                                5
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                39,
+                                5
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                10,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "how",
+            {
+                "_index": 36,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                81,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "information",
+            {
+                "_index": 49,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                81,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "instructions",
+            {
+                "_index": 34,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                65,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "interface.",
+            {
+                "_index": 33,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                54,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "introduction",
+            {
+                "_index": 1,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                9,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "issues.",
+            {
+                "_index": 40,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                129,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "key",
+            {
+                "_index": 5,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                37,
+                                3
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                92,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "of",
+            {
+                "_index": 23,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                84,
+                                2
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                37,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "on",
+            {
+                "_index": 35,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                78,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "onboarding",
+            {
+                "_index": 15,
+                "title": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                15,
+                                10
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                15,
+                                10
+                            ],
+                            [
+                                91,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "overview",
+            {
+                "_index": 0,
+                "title": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                0,
+                                8
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                0,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "problems.",
+            {
+                "_index": 47,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                63,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "process.",
+            {
+                "_index": 25,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                102,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "questions.",
+            {
+                "_index": 45,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                32,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "registering",
+            {
+                "_index": 19,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                48,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "registration",
+            {
+                "_index": 13,
+                "title": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                0,
+                                12
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                0,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "solutions",
+            {
+                "_index": 46,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                43,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "started.",
+            {
+                "_index": 29,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                128,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "step",
+            {
+                "_index": 16,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                26,
+                                4
+                            ],
+                            [
+                                34,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "support.",
+            {
+                "_index": 50,
+                "title": {},
+                "text": {
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                97,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "target",
+            {
+                "_index": 9,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                64,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "the",
+            {
+                "_index": 24,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                87,
+                                3
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                40,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "tips",
+            {
+                "_index": 26,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                111,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "to",
+            {
+                "_index": 2,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                22,
+                                2
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                45,
+                                2
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                85,
+                                2
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/faq/": {
+                        "position": [
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                53,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "troubleshooting",
+            {
+                "_index": 38,
+                "title": {},
+                "text": {
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                106,
+                                15
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "use",
+            {
+                "_index": 11,
+                "title": {},
+                "text": {
+                    "/docs/": {
+                        "position": [
+                            [
+                                84,
+                                3
+                            ]
+                        ]
+                    },
+                    "/docs/documentation/dashboard-guide/": {
+                        "position": [
+                            [
+                                88,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "walkthrough",
+            {
+                "_index": 22,
+                "title": {},
+                "text": {
+                    "/docs/documentation/registration-and-onboarding/": {
+                        "position": [
+                            [
+                                72,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ]
+    ],
+    "pipeline": []
+}
